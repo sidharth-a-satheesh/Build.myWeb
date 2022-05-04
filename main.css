@@ -1,0 +1,50 @@
+.navbar{
+    background-color: rgb(210, 232, 252);
+}
+.row{
+    background-color: rgb(228, 238, 247);
+}
+.card{
+    background-color: rgb(228, 238, 247) !important;
+    border: none !important;
+}
+.card-body{
+    background-color: rgb(228, 238, 247);
+}
+.mentor{
+    background-color: rgb(228, 238, 247);
+    margin-bottom: 0;
+    padding-bottom: 5rem;
+}
+button{
+    background-color: rgb(150, 177, 177);
+    border: solid 0;
+    padding: 0.5rem 3rem;
+}
+.table-bg{
+    background-color: rgb(85, 85, 85);
+}
+.table-nonbg{
+    background-color: #fff;
+}
+.bt1{
+    width: 100%;
+}
+body{ 
+    overflow-x: hidden; 
+    width: 100vw;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
+input{
+    border: solid 1px;
+    border-color: rgb(175, 185, 194);
+    outline: none;
+}
+
